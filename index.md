@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: 더비 블로그
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
