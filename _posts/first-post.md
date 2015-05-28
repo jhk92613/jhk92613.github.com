@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "첫번째 포스팅"
-category: test
+title:  "첫 포스팅"
+date:   2015-05-29 02:08:43
+categories: posting
 ---
-
-첫 번쨰 포스팅 성공
+포스팅 성공
