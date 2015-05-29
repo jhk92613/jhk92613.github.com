@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Manchester derby"
-category: Manchester-Derby
+title: "경기 영상"
+category: [맨체스터 더비]
 tags: []
 ---
 

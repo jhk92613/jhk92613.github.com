@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Milan Derby"
-category: Milan-Derby
+title: "경기 영상"
+category: [밀란 더비]
 tags: []
 ---
 

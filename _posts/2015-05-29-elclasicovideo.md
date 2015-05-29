@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "El clasico"
-category: El-Clasico-Derby
+title: "경기 영상"
+category: [엘 클라시코 더비]
 tags: []
 ---
 

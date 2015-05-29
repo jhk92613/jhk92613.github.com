@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "der klassiker derby"
-category: Der-Klassiker-Derby
+title: "경기 영상"
+category: [데어 클라시커 더비]
 tags: []
 ---
 
