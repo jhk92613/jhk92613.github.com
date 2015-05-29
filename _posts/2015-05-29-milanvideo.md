@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "der klassiker  derby"
-category: milan
+title: "Milan Derby"
+category: Milan-Derby
 tags: []
 ---
 
-*ac밀란vs인터밀란[ac밀란 vs 인터밀란](http://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=9058AE9590B0D03A7478D96DB910E8E5A921&outKey=V1262f01708cf849a65cbc322b72e29a43cbbc60080b58db89577c322b72e29a43cbb&width=720&height=438)
+*[AC밀란vs인터밀란](http://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=9058AE9590B0D03A7478D96DB910E8E5A921&outKey=V1262f01708cf849a65cbc322b72e29a43cbbc60080b58db89577c322b72e29a43cbb&width=720&height=438)

@@ -7,7 +7,7 @@ tags: [manchaster]
 
 
 맨체스터 더비 (Manchester Derby)
-=
+==
 
 ![MU](http://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/400px-Manchester_United_FC_crest.svg.png)
 ![MC](http://upload.wikimedia.org/wikipedia/en/thumb/c/cf/Manchester_City.svg/400px-Manchester_City.svg.png)
