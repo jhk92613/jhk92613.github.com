@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Manchester derby"
-category: history 
-tags: [dervy, manchaster]
+category:  
+tags: [manchaster]
 ---
 
 

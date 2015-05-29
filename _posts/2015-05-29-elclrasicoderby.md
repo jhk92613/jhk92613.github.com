@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "elclasico derby"
-category: history 
+category: 
 tags: [elclasico]
 ---
 
