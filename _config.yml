@@ -3,7 +3,7 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: pygments
 
-title : 축구 더비 블로그
+title : 5조's Blog
 description : 더비에 관한 정보
 tagline: Site Tagline
 author :

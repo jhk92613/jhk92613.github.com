@@ -5,9 +5,16 @@ tagline: 5조
 ---
 {% include JB/setup %}
 
-이 블로그는 축구 더비에 관한 정보를 제공하기 위해 만들어졌습니다
+##블로그의 취지
+ 세계의 유명한 축구 더비들에 대해서 설명해주기 위한 블로그
 
-![엘 클라시코](http://cfile6.uf.tistory.com/image/182008334F20C08D0BDB1D).
+##더비란
+![더비](http://cfile27.uf.tistory.com/image/164CA2514E0BCBA002DBBE)
+
+동일 지역 내의 스포츠팀들끼리의 경기를 의미
+
+
+##블로그 설명
 
 Categories 항목으로 들어가면 역사, 전적 등으로 분류된 컨텐츠를 볼 수 있습니다
 
