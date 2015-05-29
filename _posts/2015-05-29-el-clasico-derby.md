@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "El clasico derby"
-category: derby 
+category: 역사 
 tags: [dervy, elclasico]
 ---
 

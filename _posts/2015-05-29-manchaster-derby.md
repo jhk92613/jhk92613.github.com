@@ -2,7 +2,7 @@
 layout: post
 title: "Manchaster derby"
 description: ""
-category: derby 
+category: 역사 
 tags: [derby, manchaster ]
 ---
 
