@@ -12,6 +12,7 @@ author :
   github : jhk92613
   feedburner : feedname
 
+
 production_url : http://jhk92613.github.io
 
 JB :
@@ -62,7 +63,7 @@ JB :
     
   
 # Amount of post to show on home page
-paginate: 5
+#paginate: 5
 
 kramdown:
   auto_ids: true
