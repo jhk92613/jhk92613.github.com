@@ -11,7 +11,7 @@ tags: []
 
 * [영상 2](https://www.youtube.com/watch?v=rTKRxavpdQ8)
 
-* [영상 3](https://www.youtube.com/watch?v=n4Cly-FElnY 
+* [영상 3](https://www.youtube.com/watch?v=n4Cly-FElnY)
 
  
  
