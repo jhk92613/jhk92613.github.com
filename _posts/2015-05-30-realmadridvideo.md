@@ -10,3 +10,13 @@ tags: []
 * [가레스 베일](https://www.youtube.com/watch?v=2GF9f-apJ1c)
 
 <iframe width="560" height="315" src="//www.youtube.com/watch?v=2GF9f-apJ1c" frameborder="0"> </iframe>
+
+Video embeds are responsive and scale with the width of the main content block with the help of [FitVids]$
+
+Not sure if this only effects Kramdown or if it's an issue with Markdown in general. But adding YouTube v$
+
+{% highlight html %}
+<iframe width="560" height="315" src="//www.youtube.com/watch?v=2GF9f-apJ1c" frameborder="0"> </iframe>
+{% endhighlight %}
+
+
